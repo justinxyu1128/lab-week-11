@@ -5,3 +5,7 @@ for (let i of todoList) {
         completedTodos.push(i);
     }
 }
+for (let u of completedTodos) {
+    let {todo, status} = u;
+    console.log(todo);
+}
