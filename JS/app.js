@@ -1,1 +1,2 @@
-// your JavaScript goes here, you can delete this comment
+let todoList = [{todo: "clone repo for starter code", status:"complete",}, {todo: "create array todoList", status:"complete"}, {todo: "create array completedTodos", status:"started"}, {todo: "create for loops", status:"started"}];
+let completedTodos = [];
